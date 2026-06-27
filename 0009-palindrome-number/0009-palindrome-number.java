@@ -3,13 +3,15 @@ class Solution {
         if(x<0){
             return false;
         }
-        int org=x;
-        int rev=0;
-        while(x!=0){
-            int num=x%10;
-            rev=rev*10+num;
-            x=x/10;
-        }
-        return org==rev;
+        String s=String.valueOf(x);
+        int left=0;
+        int right=s.length()-1;
+        while(right>left){
+            if(s.charAt(left)!=s.charAt(right)){
+                return false;
+            }
+            left++;
+            right--;
+        }return true;
     }
 }
