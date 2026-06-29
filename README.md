@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/peddireddyrohith/Leetcodee/tree/main/0027-remove-element/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/peddireddyrohith/Leetcodee/tree/main/0035-search-insert-position/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
