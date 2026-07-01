@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/peddireddyrohith/Leetcodee/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/0013-roman-to-integer/) | Easy |
 ## Binary Search
@@ -45,10 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/peddireddyrohith/Leetcodee/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/peddireddyrohith/Leetcodee/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
