@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/peddireddyrohith/Leetcodee/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -58,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/peddireddyrohith/Leetcodee/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/peddireddyrohith/Leetcodee/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0206-reverse-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/peddireddyrohith/Leetcodee/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
