@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/peddireddyrohith/Leetcodee/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/peddireddyrohith/Leetcodee/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/peddireddyrohith/Leetcodee/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -65,11 +67,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/peddireddyrohith/Leetcodee/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/peddireddyrohith/Leetcodee/tree/main/0155-min-stack/) | Medium |
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -79,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
