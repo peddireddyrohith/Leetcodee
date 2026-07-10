@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/peddireddyrohith/Leetcodee/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
