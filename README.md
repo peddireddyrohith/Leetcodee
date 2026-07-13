@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1046-last-stone-weight](https://github.com/peddireddyrohith/Leetcodee/tree/main/1046-last-stone-weight/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Hash Table
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/peddireddyrohith/Leetcodee/tree/main/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/peddireddyrohith/Leetcodee/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/peddireddyrohith/Leetcodee/tree/main/1046-last-stone-weight/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
