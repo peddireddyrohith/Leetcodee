@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/peddireddyrohith/Leetcodee/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/peddireddyrohith/Leetcodee/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
