@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/peddireddyrohith/Leetcodee/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0011-container-with-most-water/) | Medium |
 | [0649-dota2-senate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0649-dota2-senate/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/peddireddyrohith/Leetcodee/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
