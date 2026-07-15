@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/peddireddyrohith/Leetcodee/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
+| [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0867-transpose-matrix/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/peddireddyrohith/Leetcodee/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
+| [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
+| [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0867-transpose-matrix/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/1572-matrix-diagonal-sum/) | Easy |
