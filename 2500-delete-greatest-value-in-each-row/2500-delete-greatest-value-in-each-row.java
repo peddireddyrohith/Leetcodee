@@ -4,8 +4,7 @@ class Solution {
             Arrays.sort(row);
         }
         int ans=0;
-        int cols = grid[0].length;
-        for(int j=0;j<cols;j++){
+        for(int j=0;j<grid[0].length;j++){
             int max =0;
             for(int i=0;i<grid.length;i++){
                 max = Math.max(max,grid[i][j]);
