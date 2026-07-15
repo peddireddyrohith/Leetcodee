@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/peddireddyrohith/Leetcodee/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
