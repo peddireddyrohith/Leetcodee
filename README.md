@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/peddireddyrohith/Leetcodee/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/peddireddyrohith/Leetcodee/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
