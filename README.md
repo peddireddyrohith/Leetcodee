@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/peddireddyrohith/Leetcodee/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/peddireddyrohith/Leetcodee/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
