@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/peddireddyrohith/Leetcodee/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0867-transpose-matrix/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0867-transpose-matrix/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
