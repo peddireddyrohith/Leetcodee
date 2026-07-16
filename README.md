@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/peddireddyrohith/Leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/peddireddyrohith/Leetcodee/tree/main/0506-relative-ranks/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/peddireddyrohith/Leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/peddireddyrohith/Leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/peddireddyrohith/Leetcodee/tree/main/0506-relative-ranks/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -90,11 +93,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/0013-roman-to-integer/) | Easy |
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/peddireddyrohith/Leetcodee/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -207,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Sliding Window
