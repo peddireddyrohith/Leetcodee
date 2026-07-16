@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/peddireddyrohith/Leetcodee/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/peddireddyrohith/Leetcodee/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Hash Table
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/peddireddyrohith/Leetcodee/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/peddireddyrohith/Leetcodee/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
