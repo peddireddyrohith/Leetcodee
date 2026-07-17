@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/peddireddyrohith/Leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/peddireddyrohith/Leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
