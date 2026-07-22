@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/peddireddyrohith/Leetcodee/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1174-immediate-food-delivery-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/peddireddyrohith/Leetcodee/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/peddireddyrohith/Leetcodee/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/peddireddyrohith/Leetcodee/tree/main/1321-restaurant-growth/) | Medium |
