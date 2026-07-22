@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/peddireddyrohith/Leetcodee/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/peddireddyrohith/Leetcodee/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/peddireddyrohith/Leetcodee/tree/main/0595-big-countries/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/peddireddyrohith/Leetcodee/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/1148-article-views-i/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/peddireddyrohith/Leetcodee/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
