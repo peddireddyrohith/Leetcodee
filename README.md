@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/peddireddyrohith/Leetcodee/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/peddireddyrohith/Leetcodee/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [0649-dota2-senate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0649-dota2-senate/) | Medium |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -352,4 +355,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/peddireddyrohith/Leetcodee/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
