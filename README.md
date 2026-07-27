@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0217-contains-duplicate/) | Easy |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/peddireddyrohith/Leetcodee/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/peddireddyrohith/Leetcodee/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/peddireddyrohith/Leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -337,12 +339,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/peddireddyrohith/Leetcodee/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/peddireddyrohith/Leetcodee/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -352,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/peddireddyrohith/Leetcodee/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
