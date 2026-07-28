@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/2974-minimum-number-game/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [0649-dota2-senate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0649-dota2-senate/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,4 +422,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
