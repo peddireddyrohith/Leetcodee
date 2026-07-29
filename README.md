@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/peddireddyrohith/Leetcodee/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/peddireddyrohith/Leetcodee/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/peddireddyrohith/Leetcodee/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/peddireddyrohith/Leetcodee/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/peddireddyrohith/Leetcodee/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## String Matching
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
