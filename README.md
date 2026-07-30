@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/peddireddyrohith/Leetcodee/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/peddireddyrohith/Leetcodee/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/peddireddyrohith/Leetcodee/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/peddireddyrohith/Leetcodee/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/peddireddyrohith/Leetcodee/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
