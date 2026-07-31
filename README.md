@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/peddireddyrohith/Leetcodee/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/2974-minimum-number-game/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [0649-dota2-senate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0649-dota2-senate/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/peddireddyrohith/Leetcodee/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/peddireddyrohith/Leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
