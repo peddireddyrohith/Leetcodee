@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/peddireddyrohith/Leetcodee/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
+| [0064-minimum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
+| [0064-minimum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
