@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/peddireddyrohith/Leetcodee/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/peddireddyrohith/Leetcodee/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/peddireddyrohith/Leetcodee/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/peddireddyrohith/Leetcodee/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/peddireddyrohith/Leetcodee/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/peddireddyrohith/Leetcodee/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/peddireddyrohith/Leetcodee/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -469,4 +473,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
