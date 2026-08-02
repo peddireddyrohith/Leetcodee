@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0867-transpose-matrix/) | Easy |
+| [0877-stone-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/peddireddyrohith/Leetcodee/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/peddireddyrohith/Leetcodee/tree/main/1046-last-stone-weight/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/peddireddyrohith/Leetcodee/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/0877-stone-game/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/peddireddyrohith/Leetcodee/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -479,4 +482,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
