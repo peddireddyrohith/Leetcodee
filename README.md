@@ -485,4 +485,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/0877-stone-game/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
