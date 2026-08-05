@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/peddireddyrohith/Leetcodee/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/peddireddyrohith/Leetcodee/tree/main/3310-remove-methods-from-project/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/peddireddyrohith/Leetcodee/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/peddireddyrohith/Leetcodee/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,4 +491,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/peddireddyrohith/Leetcodee/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
