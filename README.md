@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,4 +497,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/peddireddyrohith/Leetcodee/tree/main/3310-remove-methods-from-project/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
