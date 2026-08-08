@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/peddireddyrohith/Leetcodee/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/0013-roman-to-integer/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/peddireddyrohith/Leetcodee/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/peddireddyrohith/Leetcodee/tree/main/0342-power-of-four/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/peddireddyrohith/Leetcodee/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
 | [0064-minimum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0064-minimum-path-sum/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/peddireddyrohith/Leetcodee/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peddireddyrohith/Leetcodee/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/peddireddyrohith/Leetcodee/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/peddireddyrohith/Leetcodee/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0101-symmetric-tree/) | Easy |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/peddireddyrohith/Leetcodee/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/peddireddyrohith/Leetcodee/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -394,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/peddireddyrohith/Leetcodee/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/peddireddyrohith/Leetcodee/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/peddireddyrohith/Leetcodee/tree/main/0101-symmetric-tree/) | Easy |
