@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [0649-dota2-senate](https://github.com/peddireddyrohith/Leetcodee/tree/main/0649-dota2-senate/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/peddireddyrohith/Leetcodee/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/peddireddyrohith/Leetcodee/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/peddireddyrohith/Leetcodee/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,4 +540,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/peddireddyrohith/Leetcodee/tree/main/2029-stone-game-ix/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
