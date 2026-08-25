@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/peddireddyrohith/Leetcodee/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/peddireddyrohith/Leetcodee/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/peddireddyrohith/Leetcodee/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
