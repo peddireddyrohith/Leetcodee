@@ -4,8 +4,8 @@ class Solution {
         int maxIdx = 0;
         int n = nums.length;
         for(int i=1;i<n;i++){
-            if(nums[i]>nums[minIdx])minIdx = i;
-            if(nums[i]<nums[maxIdx])maxIdx = i;
+            if(nums[i]<nums[minIdx])minIdx = i;
+            if(nums[i]>nums[maxIdx])maxIdx = i;
         }
         int left = Math.min(minIdx,maxIdx);
         int right = Math.max(minIdx,maxIdx);
