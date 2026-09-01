@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/peddireddyrohith/Leetcodee/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/peddireddyrohith/Leetcodee/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
