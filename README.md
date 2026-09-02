@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/peddireddyrohith/Leetcodee/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/peddireddyrohith/Leetcodee/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/peddireddyrohith/Leetcodee/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/peddireddyrohith/Leetcodee/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/peddireddyrohith/Leetcodee/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/peddireddyrohith/Leetcodee/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/peddireddyrohith/Leetcodee/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/peddireddyrohith/Leetcodee/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/peddireddyrohith/Leetcodee/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/peddireddyrohith/Leetcodee/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/peddireddyrohith/Leetcodee/tree/main/0067-add-binary/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/peddireddyrohith/Leetcodee/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/peddireddyrohith/Leetcodee/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/peddireddyrohith/Leetcodee/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/peddireddyrohith/Leetcodee/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/peddireddyrohith/Leetcodee/tree/main/0342-power-of-four/) | Easy |
