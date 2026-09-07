@@ -1,12 +1,12 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        char result = 0;
-        for(char c : s.toCharArray()){
-            result^=c;
-        }
+        int sum = 0;
         for(char c : t.toCharArray()){
-            result^=c;
+            sum+=c;
         }
-        return result;
+        for(char c : s.toCharArray()){
+            sum-=c;
+        }
+        return (char)sum;
     }
 }
