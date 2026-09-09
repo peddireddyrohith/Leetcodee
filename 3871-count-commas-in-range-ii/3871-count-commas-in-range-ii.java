@@ -1,0 +1,13 @@
+class Solution {
+    public long countCommas(long n) {
+        long result = 0;
+        if(n<1000){
+            return 0;
+        }else{
+            for(long i=1000;i<=n;i*=1000){
+                result +=(n-i+1);
+            }
+        }
+        return result;
+    }
+}
