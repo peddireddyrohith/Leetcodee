@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/peddireddyrohith/Leetcodee/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/peddireddyrohith/Leetcodee/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0125-valid-palindrome](https://github.com/peddireddyrohith/Leetcodee/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/peddireddyrohith/Leetcodee/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/peddireddyrohith/Leetcodee/tree/main/0389-find-the-difference/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/peddireddyrohith/Leetcodee/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/peddireddyrohith/Leetcodee/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/peddireddyrohith/Leetcodee/tree/main/0125-valid-palindrome/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/peddireddyrohith/Leetcodee/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/peddireddyrohith/Leetcodee/tree/main/0392-is-subsequence/) | Easy |
 | [0832-flipping-an-image](https://github.com/peddireddyrohith/Leetcodee/tree/main/0832-flipping-an-image/) | Easy |
