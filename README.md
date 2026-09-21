@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/peddireddyrohith/Leetcodee/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/peddireddyrohith/Leetcodee/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0125-valid-palindrome](https://github.com/peddireddyrohith/Leetcodee/tree/main/0125-valid-palindrome/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/peddireddyrohith/Leetcodee/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/peddireddyrohith/Leetcodee/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/peddireddyrohith/Leetcodee/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/peddireddyrohith/Leetcodee/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/peddireddyrohith/Leetcodee/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/peddireddyrohith/Leetcodee/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/peddireddyrohith/Leetcodee/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0264-ugly-number-ii](https://github.com/peddireddyrohith/Leetcodee/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/peddireddyrohith/Leetcodee/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/peddireddyrohith/Leetcodee/tree/main/0342-power-of-four/) | Easy |
